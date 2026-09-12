@@ -71,20 +71,19 @@ function Hero() {
             </h1>
 
             <p>
-                I transitioned from business into computer science and I'm
-                figuring out exactly where I'll land: backend, game dev,
-                systems, maybe all three. <br /> <br />
-                What I bring is fast{" "}
+                I switched from business into computer science and I’m still
+                exploring what fits best: backend, game dev, systems, or some
+                mix of them. <br /> <br />
+                The thing I’m actually good at is{" "}
                 <span className="coralText">adaptation</span>: I pick up new
-                tools, languages, and environments quickly and actually enjoy
-                it. <br /> <br />
-                Currently a 2nd-year{" "}
-                <span className="coralText">
-                    Business Information System
-                </span>{" "}
-                student at{" "}
+                tools, languages, and environments fast, and I kind of enjoy
+                the chaos of it. <br /> <br />
+                Right now I’m in year two of the{" "}
+                <span className="coralText">Business Information Systems</span>{" "}
+                program at{" "}
                 <span className="coralText">Saskatchewan Polytechnic</span>,
-                open to any role where I can keep learning.
+                and I’m open to any role where I can keep learning and building
+                real stuff.
             </p>
 
             <ScrambleText />

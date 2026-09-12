@@ -5,7 +5,7 @@ function Contact() {
 
             <div className="contact-wrapper">
                 <img
-                    src="/assets/me.png"
+                    src="/assets/me.jpg"
                     alt="Portrait of Vu"
                     className="contact-photo"
                 />
