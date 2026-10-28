@@ -3,8 +3,8 @@ const posts = [
         title: "On the hunt",
         date: "10 September 2026",
         body: [
-            "Officially in job-search mode now — looking for an internship or co-op for 2027, ideally an 8-month contract so I can actually sink into it. Weird headspace, half excited, half “what if nobody wants me,” but I guess that’s just part of it.",
-            "I don't have some super narrow target either. I'm pretty flexible on the role — systems stuff is where my head naturally goes, there's something about how everything connects and actually works underneath that I really like, but I'm not trying to box myself in. If something in web dev, backend, or even just a general dev role comes up and it's a good fit, I'm in. Feels less like chasing one perfect job title and more like staying open to wherever the right opportunity shows up.",
+            "I'm officially looking for an internship or co-op now, for 2027. I want an 8-month one so I actually have time to learn things properly. Honestly just really excited about it.",
+            "I don't have one specific job in mind. I like systems stuff the most, but I'm open to pretty much anything, web dev, backend, general dev, whatever. I just love learning from whatever team I end up on.",
         ],
         image: "/assets/blog/sunshine.png"
     },
@@ -12,8 +12,8 @@ const posts = [
         title: "Year two, back at Sask Poly",
         date: "2 September 2026",
         body: [
-            "Two years at Saskatchewan Polytechnic in Regina as of today. Honestly can't believe how fast that went. Year one was such a good time though, met a ton of great people, and somehow saw way more of this province than I ever thought I would. More small trips, more random landscapes, more just being out there than I expected to get out of a couple years of school.",
-            "Going into year two, I don't really have some big plan. I just want to keep showing up and doing the work right, kind of like trail running — you just keep at it, and eventually it adds up to something. Also trying to actually enjoy things while they're happening this time, instead of only realizing how good it was after the fact. So here's to a good year, and to actually loving this life while we're in the middle of building it, not just after.",
+            "Today marks two years at Saskatchewan Polytechnic in Regina. It's hard to believe it's already been that long. Year one was really good, I met a lot of great people and saw more of this province than I thought I would. More small trips, more random places, more time outside than I expected from just going to school.",
+            "I don't have a big plan for year two. I just want to keep showing up and doing the work properly, kind of like running, you just keep going and it adds up eventually. I also want to actually enjoy things while they're happening instead of only noticing afterward how good it was.",
         ],
         image: "/assets/blog/year-two.png",
     },
@@ -21,8 +21,8 @@ const posts = [
         title: "Found my trail, hit a new PB",
         date: "12 August 2026",
         body: [
-            "Not totally sure what happened, but I ran a lot this summer. Running just calms me down, and I guess I leaned into that harder than usual this year. Also found this trail about an hour outside Regina that's honestly perfect — real hills, an actual peak to climb, none of the flat nothing you usually get around here. Barely anyone on it either, which is exactly what I wanted.",
-            "I kept going back all month and, because Saskatchewan's gonna Saskatchewan, I somehow ended up with 100km logged in August. New personal best. Didn't even plan for it — just kept showing up and it snowballed.",
+            "I'm not totally sure why, but I ran a lot this summer. Running helps me relax, and I guess I did more of it than usual this year. I also found a trail about an hour outside Regina that's actually really good, real hills, a peak to climb, not the flat nothing you usually get around here. Not many people go there either, which I liked.",
+            "I kept going back the whole month, and somehow I ended up running 100km in August. That's a new personal best for me. I didn't plan it, I just kept showing up and it added up.",
         ],
         image: "/assets/blog/100kPB.png",
     },
@@ -30,9 +30,9 @@ const posts = [
         title: "Banff birthday, solo (and snowier than expected)",
         date: "16 May 2026",
         body: [
-            "Spent my birthday in Banff this year, walked around town in the morning with the sun out and this super light snow falling — genuinely gorgeous. Grabbed some food while I was out and figured the rest of the day would be just as chill.",
-            "Then the afternoon hit and everything flipped. The snow went from light to heavy in like an hour, whole mood of the day changed. Still drove out to the campsite anyway, set up while it kept dumping, cooked dinner, and then bailed straight into the car because outside was done being fun.",
-            "Snow kept getting worse, temp dropped to minus 5, but curled up in the car with my sleeping bag it was actually really cozy. Just sat there eating, reading the new Murakami book, watching snow pile up on the windows. That's how I spent my birthday — alone in a car in the mountains, which sounds rough when I write it out like that, but it really wasn't. Alone, sure, but not lonely at all.",
+            "I spent my birthday in Banff this year. In the morning I walked around town with the sun out and light snow falling, it looked really nice. I grabbed some food and thought the rest of the day would be just as calm.",
+            "Then in the afternoon everything changed. The snow went from light to heavy really fast. I still drove to the campsite, set up while it kept snowing, cooked dinner, then went straight back into the car because it wasn't fun outside anymore.",
+            "The snow kept getting worse and the temperature dropped to minus 5, but inside the car with my sleeping bag it was actually pretty cozy. I just sat there eating, reading the new Murakami book, and watching snow pile up on the window. That's how I spent my birthday, alone in a car in the mountains.",
         ],
         image: "/assets/blog/banff-birthday.png",
     },

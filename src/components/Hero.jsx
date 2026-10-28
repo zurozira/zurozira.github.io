@@ -67,23 +67,21 @@ function Hero() {
             </p>
 
             <h1 className="bigh1">
-                Exploring where I fit in <span className="coralText">tech</span>
+                Learning <span className="coralText">tech</span> one step at a
+                time
             </h1>
 
             <p>
-                I switched from business into computer science and I’m still
-                exploring what fits best: backend, game dev, systems, or some
-                mix of them. <br /> <br />
-                The thing I’m actually good at is{" "}
-                <span className="coralText">adaptation</span>: I pick up new
-                tools, languages, and environments fast, and I kind of enjoy
-                the chaos of it. <br /> <br />
+                I got into tech because I was honestly just fascinated by it,
+                and that’s what made me switch from business to computer
+                science. I’m still pretty new to all this, so most days I’m
+                learning as I go. <br /> <br />
                 Right now I’m in year two of the{" "}
                 <span className="coralText">Business Information Systems</span>{" "}
                 program at{" "}
-                <span className="coralText">Saskatchewan Polytechnic</span>,
-                and I’m open to any role where I can keep learning and building
-                real stuff.
+                <span className="coralText">Saskatchewan Polytechnic</span>. I’m
+                looking for a role where I can keep learning and get my hands
+                on real projects.
             </p>
 
             <ScrambleText />
